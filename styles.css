@@ -1,0 +1,83 @@
+button{
+				background-color: blue;
+				color: white;
+				height: 80px;
+				width: 160px;0
+				font-size: 40px;
+				border: none;
+				border-radius: 2px;
+				
+}
+Body{
+			background-image: url("ck_1.jpg");
+			background-repeat: no-repeat;
+			background-size: 100%;	
+			
+}
+img{
+				height: 95px;
+				width: 85px;
+				border: none;
+				border-radius:2px;
+				float: left;
+				margin: 5px;
+}
+
+H1{
+				color: yellow;
+				margin: 20px;
+				top: 18px;
+				
+}
+h2{
+				color: white;
+				top: 18px;
+				margin: 2px;
+}
+h3{
+			color: red;
+}
+h4{
+				color: white;
+}
+#one{
+				color: yellowgreen;
+				margin-right: 20px;
+				font-size: 30px;
+				text-align: center;
+				font-size: 120px;
+				
+	
+}
+#two{
+				color: whitesmoke;
+				font-size: 80px;
+}
+#three{
+				color: red;
+				font-size: 50px;
+}
+footer{
+				padding:20px;
+  margin-top:20px;
+  color:#ffffff;
+  background-color:#e8491d;
+  text-align: center;
+  font-size: 16px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
